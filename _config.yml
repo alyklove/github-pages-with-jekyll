@@ -1,7 +1,3 @@
----
-title: "First Post"
-date: 2018-11-24
----
 title: Alyson's Blog
 author: Alyson Love
 email: your-email@domain.com
@@ -16,4 +12,4 @@ github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
----
+
